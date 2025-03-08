@@ -3,6 +3,8 @@
 # REPO: https://ruleset.isagood.day/ruleset.html
 # UPDATED: 2025-03-08
 # TOTAL: 39
+
+IP-ASN,132203,no-resolve
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,btrace.qq.com
 DOMAIN,dldir1.qq.com
