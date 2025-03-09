@@ -2,9 +2,6 @@
 # AUTHOR: Sebastian Luo
 # REPO: https://ruleset.isagood.day/ruleset.html
 # UPDATED: 2025-03-08
-# TOTAL: 39
-
-IP-ASN,132203,no-resolve
 DOMAIN,apd-pcdnwxlogin.teg.tencent-cloud.net
 DOMAIN,btrace.qq.com
 DOMAIN,dldir1.qq.com
@@ -40,6 +37,3 @@ DOMAIN-SUFFIX,rttgps.map.qq.com
 DOMAIN-SUFFIX,ue.indoorloc.map.qq.com
 DOMAIN-SUFFIX,up-hl.3g.qq.com
 DOMAIN-SUFFIX,yun-hl.3g.qq.com
-
-USER-AGENT,WeChat*
-USER-AGENT,MicroMessenger*
