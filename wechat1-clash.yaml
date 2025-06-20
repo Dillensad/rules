@@ -1,7 +1,4 @@
-# NAME: wechat.conf
-# AUTHOR: Sebastian Luo
-# REPO: https://ruleset.isagood.day/ruleset.html
-# UPDATED: 2025-03-08
+
 DOMAIN-SUFFIX,tencent-cloud.net
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,tenpay.com
